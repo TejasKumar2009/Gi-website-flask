@@ -1,5 +1,3 @@
-# api key - https://api.giphy.com/v1/stickers/search?api_key=F76P7UFFhVA322g5KsBWSqmrv2VhM43j&q=Happy&limit=25&offset=0&rating=g&lang=en
-
 from flask import Flask, render_template, request
 import requests
 import json
